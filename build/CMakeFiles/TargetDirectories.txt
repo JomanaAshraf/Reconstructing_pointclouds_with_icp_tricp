@@ -1,3 +1,0 @@
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_3/Icp_Tricp/build/CMakeFiles/edit_cache.dir
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_3/Icp_Tricp/build/CMakeFiles/rebuild_cache.dir
-/home/jomana/masters_ws/src/Studying/Semester_3/3D_Sensing/Tutorials/Tutorial_3/Icp_Tricp/build/CMakeFiles/icp_tricp.dir
