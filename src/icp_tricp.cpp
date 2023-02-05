@@ -1,4 +1,4 @@
-#include "../nanoflann.hpp"
+#include "nanoflann.hpp"
 #include <cstdlib>
 #include <iostream>
 #include <chrono>
