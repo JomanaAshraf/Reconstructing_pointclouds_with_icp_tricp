@@ -1,0 +1,5 @@
+Iterations of TRICP: 26
+Time = 0.462693 s
+MSE_tricp: 12.4109
+rotation error: 5.48527
+Translation error: 4.39881

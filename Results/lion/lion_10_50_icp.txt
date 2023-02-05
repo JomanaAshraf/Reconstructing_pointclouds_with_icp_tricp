@@ -1,0 +1,5 @@
+Iterations of ICP: 71
+Time = 53.5863 s
+MSE_icp: 60.4014
+rotation error: 84.7578
+Translation error: 36.3768
